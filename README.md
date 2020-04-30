@@ -1,2 +1,2 @@
-# C-Xcode
+# CPlusPlus-Xcode
 C++ exercises
